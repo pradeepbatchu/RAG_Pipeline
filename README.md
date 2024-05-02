@@ -1,1 +1,1 @@
-# RAG_insurancedemo
+# RAG Pipeline with Mistral 
